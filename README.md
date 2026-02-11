@@ -24,8 +24,6 @@ environmental adaptation.
 -   Window size: 50 kb
 -   Step size: 5 kb
 
-Example:
-
 ``` bash
 vcftools --vcf input.vcf          --window-pi 50000          --window-pi-step 5000          --out pi_output
 
@@ -63,13 +61,13 @@ Ne = 1 / (2 × mutation rate × coalescent rate)
 
 ## 4. Introgression Analysis (ABBA-BABA)
 
--   Tool: genomics_general (fd statistics)
+-   Tool: [genomics_general](https://github.com/simonhmartin/genomics_general) (fd statistics)
 -   Window size: 1 Mb
 -   Step size: 100 kb
 -   Minimum SNPs per window: 100
 
 ``` bash
-python ABBABABA.py        --window 1000000        --step 100000        --minSites 100
+python ABBABABAwindows.py        --window 1000000        --step 100000        --minSites 100
 ```
 
 ------------------------------------------------------------------------
