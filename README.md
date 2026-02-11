@@ -2,12 +2,6 @@
 
 ## Overview
 
-This repository contains analysis pipelines and scripts supporting the
-study:
-
-*Large-scale genome and transcriptome sequencing reveals genetic
-diversity and convergent selection in Chenopodium.*
-
 This project investigates genomic diversity, introgression, selective
 sweeps, demographic history, and regulatory variation (eQTLs) across
 *Chenopodium* accessions spanning 20 species, with a focus on quinoa
