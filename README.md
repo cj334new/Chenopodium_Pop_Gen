@@ -26,10 +26,7 @@ environmental adaptation.
 
 ------------------------------------------------------------------------
 
-## 1. Population Genomics Analysis
-
-### Nucleotide Diversity and FST
-
+## 1. Nucleotide Diversity and FST
 -   Window size: 50 kb
 -   Step size: 5 kb
 
