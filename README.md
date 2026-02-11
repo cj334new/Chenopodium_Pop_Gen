@@ -88,8 +88,6 @@ python ABBABABA.py        --window 1000000        --step 100000        --minSite
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
 ## Keywords
 
 Chenopodium · Quinoa · Population genomics · eQTL · Selective sweep ·
