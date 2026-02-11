@@ -61,7 +61,7 @@ Ne = 1 / (2 × mutation rate × coalescent rate)
 
 ------------------------------------------------------------------------
 
-## 6. Introgression Analysis (ABBA-BABA)
+## 4. Introgression Analysis (ABBA-BABA)
 
 -   Tool: genomics_general (fd statistics)
 -   Window size: 1 Mb
@@ -74,7 +74,7 @@ python ABBABABA.py        --window 1000000        --step 100000        --minSite
 
 ------------------------------------------------------------------------
 
-## 7. eQTL Mapping
+## 5. eQTL Mapping
 
 -   Tool: **MatrixEQTL**
 -   Covariates: First 3 genotype PCs (Plink)
