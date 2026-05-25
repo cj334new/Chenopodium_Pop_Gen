@@ -1,4 +1,6 @@
-# Chenopodium_Pop_Gen
+# Large-scale genome and transcriptome sequencing reveals genetic diversity and convergent selection in *Chenopodium*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20371069.svg)](https://doi.org/10.5281/zenodo.20371069)
 
 ## Overview
 
@@ -83,6 +85,15 @@ python ABBABABAwindows.py        --window 1000000        --step 100000        --
 
 -   cis-eQTL: within 30 kb of gene TSS or TTS
 -   trans-eQTL: outside 30 kb
+
+------------------------------------------------------------------------
+
+
+## License
+
+This repository contains the source code used in the manuscript. The
+source code is released under the MIT License. See the [LICENSE](LICENSE)
+file for details.
 
 ------------------------------------------------------------------------
 
